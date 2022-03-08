@@ -8,3 +8,6 @@ exercitando css
 
 textos do conteudo gerados no 
 https://www.loremipzum.com/pt/gerador-de-texto
+
+
+andamento do curso 5%  --- aula 39 de 606!

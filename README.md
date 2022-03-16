@@ -1,5 +1,5 @@
 # excercicios-udemy
-minha aprendizagem no curso de htm udemy
+minha aprendizagem no curso de html udemy
 
 
 implementação de "div's" e classes 
